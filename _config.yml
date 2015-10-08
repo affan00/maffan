@@ -1,7 +1,7 @@
 markdown: redcarpet
-baseurl: "/maffan.github.io" # the subpath of your site, e.g. /blog/
-url: "https://maffan" # the base hostname & protocol for your site
-github_username:  affan00
+baseurl: /maffan.github.io
 
-# Build settings
-markdown: kramdown
+
+
+
+
